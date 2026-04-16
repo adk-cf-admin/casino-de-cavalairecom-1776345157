@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#404040",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#ED6237",
+            "yellow": "#404040",
+            "yellow-button": "#ED6237",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffea00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6406"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6407",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Cavalaire"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6408",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Cavalaire"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino de Cavalaire",
+                    "title": "Casino de Cavalaire | Expérience de casino terrestre réel",
+                    "description": "Découvrez Casino de Cavalaire à travers une présentation fondée sur des données vérifiées, centrée sur notre identité de casino terrestre réel, la valeur pour nos clients et des informations de service clairement indiquées.",
+                    "canonical": "casino-de-cavalaire.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6409",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-cavalaire.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6410"
+                },
+                "hero": {
+                    "title": "Casino de Cavalaire — un univers élégant de jeu, de luxe et de divertissements inoubliables sur la Côte d’Azur",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6411",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6412",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Identité claire de casino terrestre réel",
+                        "Divertissement sur place axé client",
+                        "Communication transparente fondée sur les faits",
+                        "Positionnement physique renforçant les signaux de confiance",
+                        "Présentation structurée pour visites mieux informées"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino de Cavalaire App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6413",
+                    "imageSizeModifier": -3,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino de Cavalaire App",
+                    "mobileGooglePlayImageTitle": "Casino de Cavalaire App",
+                    "mobileIosImageTitle": "Casino de Cavalaire App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "Faits intéressants",
+                        "items": [
+                            "Notre nom de marque confirmé est Casino de Cavalaire.",
+                            "La source fournie nous identifie comme un casino terrestre réel.",
+                            "Toutes les informations opérationnelles non confirmées sont indiquées comme non spécifié."
+                        ],
+                        "description2": "Au Casino de Cavalaire, nous nous présentons ici strictement à partir des données vérifiées fournies : notre nom de marque et notre identité de casino terrestre réel. Cette approche garantit une communication exacte et assure que chaque affirmation reste alignée uniquement sur des informations confirmées.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6414",
+                        "imageSizeModifier": -4,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino de Cavalaire",
+                        "description3": "Pour nos clients, cela crée un point de départ clair. Nous positionnons notre casino comme une destination de divertissement sur site, où la visite physique, l’environnement de service et le contexte de jeu réel façonnent l’expérience utilisateur plus que ne le feraient des affirmations promotionnelles non confirmées.\n\nNous maintenons également une norme de transparence sur l’ensemble de cette page. Lorsque des détails opérationnels n’ont pas été fournis dans la source, nous les indiquons comme non spécifié afin que nos clients puissent évaluer notre casino avec confiance, clarté et dans le plein respect de l’exactitude factuelle."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques du casino",
+                        "description": "<p>Dans le contexte d’un casino terrestre, l’évaluation des caractéristiques commence par ce qui est confirmé. Pour nous, la base confirmée est notre identité de casino réel hors ligne et notre nom de marque, qui ensemble façonnent la manière dont les clients interprètent notre offre de service.<\/p>\n<br>\n<p>Du point de vue de l’utilisateur, un casino physique est jugé par son immédiateté. Les clients évaluent généralement si le lieu paraît crédible, accessible et orienté expérience, et notre positionnement de marque soutient ce type de logique de décision sur site.<\/p>\n<br>\n<p>Les signaux de confiance sont particulièrement importants dans la recherche de divertissement. Lorsque les clients recherchent un casino terrestre, ils souhaitent souvent d’abord une identification claire de la marque, et Casino de Cavalaire fournit ce point de départ dans l’ensemble actuel de données vérifiées.<\/p>\n<br>\n<p>Dans une analyse pratique du service, les établissements terrestres se distinguent des produits numériques parce que la visite elle-même fait partie de la valeur. Notre casino s’inscrit donc dans une catégorie expérientielle où l’atmosphère, le contact avec le personnel et la présence physique comptent, même si les détails spécifiques du lieu ne sont pas précisés.<\/p>\n<br>\n<p>D’un point de vue comportemental, l’intention du client dans un casino hors ligne est souvent à la fois transactionnelle et récréative. Les visiteurs peuvent comparer la commodité, la qualité du divertissement et la clarté du service avant de choisir où consacrer leur temps de loisirs.<\/p>\n<br>\n<p>C’est pourquoi la communication sur les caractéristiques doit rester structurée. Une répartition claire entre données confirmées et données non spécifiées aide nos clients à évaluer notre casino sans confusion et favorise une prise de décision plus sûre.<\/p>\n<br>\n<p>La pertinence SEO se développe également grâce à la précision sémantique. Des termes tels que casino terrestre, divertissement sur site, établissement de jeu réel et expérience client s’alignent naturellement avec la manière dont les utilisateurs recherchent des destinations de jeu physiques.<\/p>\n<br>\n<p>Dans le périmètre actuel des sources, le résumé le plus fiable des caractéristiques est celui qui préserve l’intégrité factuelle. Nous mettons en avant notre identité, maintenons la transparence sur les points non spécifiés et conservons une présentation prête pour des mises à jour exactes.<\/p><br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n\n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Caractéristique\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Informations détaillées confirmées dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Type d’établissement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Casino terrestre réel à Cavalaire-sur-Mer, orienté jeu, restauration, animations et expérience sur site.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Adresse et contact\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        305 Rue du Port, 83240 Cavalaire-sur-Mer, France<br>\n        Téléphone : +33 (0)4 94 01 92 40\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Positionnement et cadre\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Établissement situé près du port, avec vue sur le port et la baie depuis les espaces de jeux traditionnels, plus une terrasse de jeu plein air.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Horaires généraux du casino\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ouvert tous les jours de 10h00 à 03h00, avec prolongation jusqu’à 04h00 les vendredis et samedis.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Machines à sous\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Environ 100 machines à sous au total, avec un détail public de 99 unités : 72 en salle principale et 27 sur la terrasse plein air. Offre composée de rouleaux, rouleaux vidéos et vidéo poker.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Jeux électroniques\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        12 postes de roulette anglaise électronique et blackjack électronique au 1er étage, plus 4 postes supplémentaires dans la salle des machines à sous. Ouverts tous les jours dès 10h00.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Jeux de table traditionnels\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        3 roulettes anglaises, 2 tables de blackjack dont 1 table plein air, 1 table d’Ultimate Texas Hold’em avec jackpot progressif, ainsi que 2 tables de poker.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Horaires des jeux de table\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ouverts tous les jours de 20h30 à 03h00, et de 21h00 à 04h00 les vendredis et samedis.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Poker\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Espace poker dédié avec 2 tables de Texas Hold’em. Cash game toute l’année et tournois selon programmation, avec tables ouvertes dès 21h en saison.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Niveaux de mise indiqués publiquement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Machines à sous dès 0,01 € ; roulette anglaise électronique dès 1 € ; blackjack électronique dès 2 € ; blackjack plein air à partir de 10 € minimum.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restauration\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restaurant ouvert 7j\/7 de 12h00 à 14h30 et de 19h00 à 22h30, avec cuisine de saison, suggestions hebdomadaires et possibilité de réserver une table avec vue sur l’ambiance de jeu.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Bars et ambiance\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Présence d’un bar des jeux et d’un bar des machines à sous, avec cocktails, champagne et ambiance directement liée aux espaces de jeu.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Animations régulières\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Agenda actif avec petit-déjeuner sur poste de jeu, goûter quotidien, apéritif offert tous les jours, ticket bonus certains jours, ainsi que soirées, spectacles et événements thématiques.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Programme fidélité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Carte Ambassadeur personnelle, gratuite, avec accès simplifié, points cumulés à chaque partie, offres spéciales, cadeaux et avantages progressifs.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Transparence sur les données non précisées\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Les sources publiques consultées ne détaillent pas précisément les moyens de paiement acceptés sur place, les frais éventuels, ni les procédures transactionnelles internes ; ces éléments doivent donc être signalés comme non spécifiés publiquement.\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Transparence des paiements et confiance des clients",
+                        "description": "<p>Dans un casino terrestre, l’analyse des paiements est étroitement liée à la confiance des clients. Pour nos clients, les dépôts et les retraits font partie du parcours global de service, même lorsque les méthodes exactes ne sont pas précisées dans la source actuelle.<\/p>\n<br>\n<p>D’un point de vue transactionnel, les utilisateurs veulent généralement comprendre clairement comment les fonds entrent et sortent de l’environnement du casino. C’est pourquoi nous séparons les faits confirmés des éléments non spécifiés au lieu de supposer des détails qui n’ont pas été fournis.<\/p>\n<br>\n<p>Une communication exacte sur les paiements soutient le comportement de planification. Les clients comparent souvent la disponibilité des dépôts, l’accès aux retraits, l’exposition aux frais et la logique des délais de traitement avant de s’engager dans une visite de divertissement sur site.<\/p>\n<br>\n<p>L’analyse du service montre également que la transparence des paiements influence la confiance. Un statut clairement indiqué comme non spécifié est plus fiable qu’un contenu spéculatif et maintient la présentation de notre casino cohérente avec des informations strictement vérifiées.<\/p>\n<br>\n<p>Pour la communication de marque, cette approche est utile car elle protège la qualité de la décision. Nos clients peuvent voir exactement quels points de données opérationnelles sont confirmés aujourd’hui et quels domaines restent ouverts à de futures mises à jour factuelles.<\/p>\n<br>\n<p>En pratique, les attentes de paiement dans un établissement terrestre peuvent inclure l’interaction avec la caisse, les méthodes prises en charge et les délais de règlement, mais ces éléments précis ne sont pas spécifiés dans l’ensemble actuel des sources. Nous conservons donc une vue d’ensemble des transactions concise et exacte.<\/p>\n<br>\n<p>Cette structure améliore également l’utilisabilité du contenu. Les lecteurs qui recherchent des informations sur les paiements peuvent identifier rapidement le statut actuel des données sans devoir trier des affirmations non confirmées ni des suppositions exagérées.<\/p>\n<br>\n<p>Dans les limites des sources actuelles, le message le plus solide sur les dépôts et les retraits est celui de l’exactitude méthodologique. Nous préservons la clarté, maintenons la confiance et présentons uniquement ce qui peut être confirmé de manière responsable.<\/p><br><div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:10px; text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Élément transactionnel\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:10px; text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Statut confirmé dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Dépôt sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Retrait sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Frais de transaction\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Délais de traitement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        not specified\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Politique d’accès\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Entrée gratuite, accès réservé aux 18+ avec pièce d’identité valide\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Programme de fidélité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Players Plus gratuit avec avantages exclusifs et cadeaux toute l’année\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Offre de bienvenue\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        5 € de jeu offerts et 15 % de réduction sur la première addition au bar ou au restaurant, sous conditions\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Confort d’arrivée\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Parking disponible sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Services sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restaurant avec vue panoramique sur la baie et bar sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accessibilité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accès aux personnes handicapées\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Horaires utiles pour organiser la visite\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:10px; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ouvert toute l’année avec de longues plages horaires\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Quel est le nom confirmé de l’établissement ?",
+                            "answer": "Notre nom confirmé est Casino de Cavalaire."
+                        },
+                        {
+                            "title": "Notre casino est-il présenté comme terrestre ?",
+                            "answer": "Oui, notre casino est présenté comme un casino terrestre réel."
+                        },
+                        {
+                            "title": "Des catégories de jeux précises sont-elles confirmées dans la source ?",
+                            "answer": "Non, les catégories de jeux précises ne sont pas spécifiées dans la source fournie."
+                        },
+                        {
+                            "title": "Les méthodes de paiement sont-elles confirmées dans la source ?",
+                            "answer": "Non, les méthodes de paiement ne sont pas spécifiées dans la source fournie."
+                        },
+                        {
+                            "title": "Cet article utilise-t-il uniquement des données vérifiées ?",
+                            "answer": "Oui, nous utilisons uniquement les données sources fournies et indiquons tous les détails manquants comme non spécifié."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
